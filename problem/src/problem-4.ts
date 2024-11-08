@@ -25,9 +25,9 @@
          throw new Error("unknown")
         }
     }
-    // const circleArea = calculateShapeArea({shape:"circle",radius:5})
+    const circleArea = calculateShapeArea({shape:"circle",radius:5})
     // console.log(circleArea)
-    // const rectangleArea = calculateShapeArea({shape:"rectangle",width:4,height:4})
+    const rectangleArea = calculateShapeArea({shape:"rectangle",width:4,height:4})
     // console.log(rectangleArea)
 }
 
