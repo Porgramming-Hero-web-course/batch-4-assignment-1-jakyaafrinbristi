@@ -9,6 +9,6 @@
 
         return splitWords.filter(word => word === lowerWord).length;
     }
-console.log(countWordOccurrences("I love typescript", "typescript"))
-console.log(countWordOccurrences("I love bangladesh bangladesh", "bangladesh"))
+// console.log(countWordOccurrences("I love typescript", "typescript"))
+// console.log(countWordOccurrences("I love bangladesh bangladesh", "bangladesh"))
 }
